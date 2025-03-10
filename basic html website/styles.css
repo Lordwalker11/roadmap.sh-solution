@@ -1,0 +1,44 @@
+header {
+                
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+*{
+    font-family: Arial;
+}
+
+.navi{
+    text-align: right;
+    
+}
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+    width: auto;
+}
+.tabels{
+    padding: 20px;
+    border-radius: 10px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Jarak antar elemen */
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.card {
+    width: 200px; /* Sesuaikan dengan kebutuhan */
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.author {
+    color: lightgray;
+    font-weight: bold;
+}
