@@ -8,19 +8,15 @@ header {
     font-family: Arial;
 }
 
-.navi{
-    text-align: right;
-    
-}
-
 table{
     text-align: left;
     border-collapse: collapse;
     width: auto;
+    
 }
 .tabels{
     padding: 20px;
-    border-radius: 10px;
+    
 }
 .container {
     display: flex;
