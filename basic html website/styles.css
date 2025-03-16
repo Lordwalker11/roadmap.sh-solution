@@ -7,15 +7,16 @@ header {
 *{
     font-family: Arial;
 }
-
-table{
-    text-align: left;
-    border-collapse: collapse;
-    width: auto;
-    
+.utama{
+    width: 77%;
 }
-.tabels{
-    padding: 20px;
+.navi{
+    text-align: right;
+    padding-top: 10px;
+}
+.hisi{
+    display: flex;
+    justify-content: left;
     
 }
 .container {
